@@ -1,10 +1,16 @@
 ## Hi there 👋
 
+### What I'm doing
+- **Now:** building small Python + SQL data projects and cleaning up repo docs
+- **Next:** shipping a mini Flask API for a data project
+- **Open to:** entry-level roles in Python/SQL (data analyst / junior software)
+  
+---
 🎓 Graduate of **Computer Programming and Analysis** at [George Brown College](https://www.georgebrown.ca/)  
 💻 Built projects in **Python, SQL, and web development (React, Node.js, Express, MongoDB)**  
 📊 Currently focusing on **data analytics and Python programming**  
 🌱 Learning through personal projects and continuous practice  
-🚀 Interested in roles such as **Data Analyst** or **Software Developer**
+🚀 Open to Data Analyst or Junior Software Roles
 
 ---
 
@@ -31,7 +37,8 @@ Here are a few highlights (check pinned repos for code):
 ---
 
 ### 📈 GitHub Stats
-![Siam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siam9922&show_icons=true&theme=radical)
+![Siam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siam9922&show_icons=true)
+
 
 ---
 
