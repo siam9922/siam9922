@@ -42,6 +42,6 @@ Here are a few highlights (check pinned repos for code):
 ---
 
 ### 🌐 Connect
-- [LinkedIn](https://www.linkedin.com/) *(add your profile link)*  
-- [Portfolio Website](#) *(optional, when you make one)*
+- [LinkedIn](https://www.linkedin.com/in/siam-hasan-bb5343377/) 
+- [Portfolio Website](#) 
 
