@@ -37,8 +37,7 @@ Here are a few highlights (check pinned repos for code):
 ---
 
 ### 📈 GitHub Stats
-![Siam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siam9922&show_icons=true)
-
+![Siam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siam9922&show_icons=true&theme=radical)
 
 ---
 
