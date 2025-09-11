@@ -1,4 +1,4 @@
-# Hi, I'm Siam 👋
+# 𝗛𝗶, 𝗜'𝗺 𝗦𝗶𝗮𝗺
 
 **George Brown College Post-Graduate in Computer Programming and Analysis | Aspiring Data Analyst**  
 Practicing **Python + SQL** and exploring **Data Analytics**  
@@ -6,7 +6,7 @@ Open to entry-level **Data Analyst** and **Junior Developer** roles
 
 ---
 
-### 🛠️ Skills and Tools
+### Skills and Tools
 - **Core:** Python, SQL  
 - **Data:** Pandas, NumPy, Scikit-learn  
 - **Databases:** MySQL, MongoDB  
@@ -15,7 +15,7 @@ Open to entry-level **Data Analyst** and **Junior Developer** roles
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -40,7 +40,7 @@ Open to entry-level **Data Analyst** and **Junior Developer** roles
 
 ---
 
-### 📂 Projects
+### Projects
 Here are a few highlights (see pinned repos for details):
 
 - **House Price Prediction (Kaggle Competition)**  
@@ -54,18 +54,18 @@ Here are a few highlights (see pinned repos for details):
 
 ---
 
-### 🤝 Team Projects
+### Team Projects
 - **[Capstone Industry Project](https://github.com/Bajorum/Capstone-IndustryProject-frontend)**  
   Final semester group project building an industry-level web application.  
   *My role:* backend development and API integration.  
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 ![Siam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siam9922&show_icons=true&theme=tokyonight)
 
 ---
 
-### 🌐 Connect
+### Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siam-hasan-bb5343377/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=github&logoColor=white)](#)
