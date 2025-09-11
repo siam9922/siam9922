@@ -1,38 +1,47 @@
-## Hi there 👋
+
+## Hi there!
 
 ### What I'm doing
-- **Now:** building small Python + SQL data projects and cleaning up repo docs
-- **Next:** shipping a mini Flask API for a data project
-- **Open to:** entry-level roles in Python/SQL (data analyst / junior software)
-  
+- **Now:** practicing Python + SQL through small data projects  
+- **Next:** exploring Flask to build a simple data-driven API  
+- **Goal:** grow into an entry-level **Data Analyst** role  
+
 ---
-🎓 Graduate of **Computer Programming and Analysis** at [George Brown College](https://www.georgebrown.ca/)  
-💻 Built projects in **Python, SQL, and web development (React, Node.js, Express, MongoDB)**  
-📊 Currently focusing on **data analytics and Python programming**  
-🌱 Learning through personal projects and continuous practice  
-🚀 Open to Data Analyst or Junior Software Roles
+
+ Post-graduate of **Computer Programming and Analysis** at [George Brown College](https://www.georgebrown.ca/)  
+ Focused on **Python, SQL, and data analytics**  
+ Built CRUD apps and full-stack projects with **React, Node.js, and MongoDB**   
+ Always learning through personal projects and continuous practice  
 
 ---
 
 ### 🛠️ Skills and Tools
-- **Languages:** Python, JavaScript (ES6+), SQL, Java  
-- **Web Development:** React, Node.js, Express, HTML, CSS  
+- **Core Skills:** Python, SQL  
+- **Data Tools:** Pandas, NumPy, Scikit-learn  
 - **Databases:** MySQL, MongoDB  
-- **Other Tools:** Git/GitHub, Docker, VS Code, IntelliJ
+- **Other Experience:** JavaScript (ES6+), React, Node.js, Java  
+- **Tools:** Git/GitHub, VS Code, IntelliJ, Docker  
 
 ---
 
-### 📂 Projects
-Here are a few highlights (check pinned repos for code):
+###  Projects
+Here are a few highlights (see pinned repos for details):
 
-- 📝 **Full-Stack Employee Management System**  
-  RESTful API (Node.js + MongoDB) with React frontend, supporting CRUD operations.  
-
-- 📊 **House Price Prediction (Kaggle Competition)**  
+-  **House Price Prediction (Kaggle Competition)**  
   Machine learning project using Python (Pandas, NumPy, Scikit-learn).  
 
-- 📱 **Mobile App Lab Projects**  
-  Android Studio apps exploring UI design and data handling.  
+-  **Employee Management System**  
+  RESTful API (Node.js + MongoDB) with React frontend (CRUD functionality).  
+
+-  **Mobile App Labs**  
+  Android Studio apps experimenting with sensors and UI design.
+
+---
+
+### 🤝 Team Projects
+- **[Capstone Industry Project](https://github.com/Bajorum/Capstone-IndustryProject-frontend)**  
+  Final semester group project focused on building an industry-level web application.  
+  *My role:* backend development and API integration.  
 
 ---
 
