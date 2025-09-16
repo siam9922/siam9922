@@ -55,7 +55,8 @@ Here are a few highlights (see pinned repos for details):
 ---
 
 ### Team Projects
-- **[Capstone Industry Project](https://github.com/Bajorum/Capstone-IndustryProject-frontend)**  
+- **[Capstone Industry Project FrontEnd](https://github.com/Bajorum/Capstone-IndustryProject-frontend)**
+- **[Capstone Industry Project BackEnd](https://github.com/DiegoHidenori/Capstone-IndustryProject-Backend)**  
   Final semester group project building an industry-level web application.  
   *My role:* backend development and API integration.  
 
