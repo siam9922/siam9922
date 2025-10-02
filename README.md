@@ -2,19 +2,19 @@
 
 **George Brown College Post-Graduate in Computer Programming and Analysis | Aspiring Data Analyst**  
 Practicing **Python + SQL** and exploring **Data Analytics**  
-Open to entry-level **Data Analyst** and **Junior Developer** roles  
+Open to entry-level **Data Analyst**
 
 --- 
 
 ### Skills and Tools  
 
-- **Core**: Python, SQL, Excel   
+- **Core**: Python, SQL, Excel  
+- **Data Analysis**: Pandas, NumPy  
 - **Visualization / BI**: Tableau  
 - **Databases**: MySQL  
 - **Tools**: Git, GitHub, VS Code  
 
 --- 
-
 
 ### Tech Stack
 
@@ -22,6 +22,10 @@ Open to entry-level **Data Analyst** and **Junior Developer** roles
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+**Data Analysis**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 **Visualization / BI**  
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
@@ -34,19 +38,28 @@ Open to entry-level **Data Analyst** and **Junior Developer** roles
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
----
+--- 
 
-### Projects
-Here are a few highlights (see pinned repos for details):
+### Projects  
 
-- **House Price Prediction (Kaggle Competition)**  
-  Exploratory data analysis and regression using Pandas, NumPy, and scikit-learn.  
+- **Capstone Industry Project – Queen of Apostles**  
+  - Designed and implemented **PostgreSQL data models** to support scheduling, payment, and reporting features.  
+  - Created workflows for guest registration and room scheduling, ensuring clean data flow across the system.  
+  - Analyzed requirements, reviewed workflows, and coordinated with team members to align data processes.  
+  - Contributed to backend integration and debugging to connect services with the database.  
+  - Delivered project reports, risk logs, and sprint updates for stakeholders.  
+
+- **House Price Prediction (Kaggle)**  
+  - Applied **Python (Pandas, NumPy, Excel)** to clean and analyze housing datasets.  
+  - Built and evaluated regression models to predict housing prices.  
+  - Conducted **exploratory data analysis (EDA)**, feature selection, and data visualization to identify pricing trends.  
+  - Focused on data preparation, pattern discovery, and model interpretation.  
 
 - **Employee Management System**  
-  Full-stack CRUD app with Node.js + MongoDB backend and React frontend.  
-
-- **Mobile App Labs**  
-  Android Studio apps experimenting with sensors and UI design.  
+  - Designed and implemented **SQL schemas and queries** to manage employee and salary records.  
+  - Built a CRUD application to demonstrate database interactions and data validation.  
+  - Focused on workflow testing and strengthening understanding of **app–database integration**.  
+  
 
 ---
 
