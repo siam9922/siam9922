@@ -10,13 +10,9 @@ I use GitHub to keep track of my notes, practice queries, small experiments, and
 
 ## Tools & Tech
 
-- SQL
-- Databases
-- Azure
-- Git & GitHub
-- VS Code
-- Technical notes and practice work
-
+- SQL, PostgreSQL, and SQL Server
+- Azure certification concepts and cloud fundamentals
+- Git, GitHub, and VS Code
 ---
 
 ## A Bit About Me
