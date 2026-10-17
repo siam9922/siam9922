@@ -1,18 +1,21 @@
 # Hey there 👋
 
-I'm Siam, a Computer Programming graduate building my foundation in tech.
+I'm Siam, a Computer Programming graduate building my skills in databases, cloud computing, and software development.
 
-Right now, I’m mainly focused on strengthening my SQL skills, understanding databases better, and working through Azure certifications.
+My main focus is strengthening my SQL knowledge, gaining hands-on experience with Microsoft Azure, and developing practical technical skills.
 
-I use GitHub to keep track of my notes, practice queries, small experiments, and anything I’m learning along the way. I’m still building things up, but the goal is simple: get better, stay consistent, and keep improving.
+I'm also exploring web development through HTML, CSS, and JavaScript as a creative hobby. I enjoy experimenting with ideas and building small projects that interest me.
+
+I use GitHub to document my learning, share projects, and track my progress as I continue growing in tech.
 
 ---
 
 ## Tools & Tech
 
-- SQL, PostgreSQL, and SQL Server
-- Azure certification concepts and cloud fundamentals
-- Git, GitHub, and VS Code
+- Databases: SQL, PostgreSQL, SQL Server
+- Web Development: HTML, CSS, JavaScript, Python
+- Cloud: Microsoft Azure, cloud fundamentals, and Azure administration concepts
+- Development Tools: Git, GitHub, VS Code
 ---
 
 ## A Bit About Me
